@@ -1,0 +1,4 @@
+rootProject.name = 'exercise'
+include 'calculator'
+include 'rest'
+
